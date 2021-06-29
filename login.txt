@@ -1,5 +1,5 @@
 {
   "author": "deskcriminalz",
-  "license": "ZGVza2NyaW1pbmFseg==1",
+  "lisensi": "ZGVza2NyaW1pbmFseg==1",
   "page": "Login Page"
 }
