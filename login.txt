@@ -1,5 +1,5 @@
 {
   "author": "deskcriminalz",
-  "lisensi": "dc-store-8011-21"
+  "lisensi": "deskcriminalz"
   "page": "Login Page"
 }
